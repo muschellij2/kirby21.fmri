@@ -12,6 +12,6 @@ Description: Functional magnetic resonance imaging ('fMRI')
 License: GPL-2
 Imports: kirby21.base (>= 1.7.0)
 Suggests: kirby21.t1 (>= 1.7.0)
-RoxygenNote: 6.1.0
+RoxygenNote: 7.3.2
 URL: https://www.nitrc.org/projects/multimodal/
 Encoding: UTF-8
