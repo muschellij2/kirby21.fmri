@@ -6,3 +6,4 @@ inst/visit_*/*
 ^cran-comments\.md$
 ^\.github$
 ^\.DS_Store$
+^CRAN-SUBMISSION$
