@@ -1,3 +1,5 @@
+# kirby21.t1 1.8.0
+
 # kirby21.t1 1.7.0
 
 * Added options for deleting data with `delete_fmri_data`.  

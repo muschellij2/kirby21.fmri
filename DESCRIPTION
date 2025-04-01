@@ -2,8 +2,7 @@ Package: kirby21.fmri
 Type: Package
 Title: Example Functional Imaging Data from the Multi-Modal
        MRI 'Reproducibility' Resource
-Version: 1.7.0
-Date: 2018-08-13
+Version: 1.8.0
 Author: John Muschelli <muschellij2@gmail.com>
 Maintainer: John Muschelli <muschellij2@gmail.com>
 Description: Functional magnetic resonance imaging ('fMRI')
